@@ -1,0 +1,7 @@
+D:\New folder\Matrix - buoi6\Matrix\bin\Debug\Matrix.exe.config
+D:\New folder\Matrix - buoi6\Matrix\bin\Debug\Matrix.exe
+D:\New folder\Matrix - buoi6\Matrix\bin\Debug\Matrix.pdb
+D:\New folder\Matrix - buoi6\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+D:\New folder\Matrix - buoi6\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+D:\New folder\Matrix - buoi6\Matrix\obj\Debug\Matrix.exe
+D:\New folder\Matrix - buoi6\Matrix\obj\Debug\Matrix.pdb
